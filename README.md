@@ -2,22 +2,22 @@ This is a fork from [SpellChucker's plugin](https://github.com/SpellChucker/capa
 
 **Current plugin version is for Capacitor 4**
 
-I didn't test it standalone. I use it with Facebook SDK in my projects. Current Facebook SDK version in plugin is 15.1.0.
-If you also have Facebook SDK in your project, I recommend to set its version to 15.1.0.
-
+I didn't test it standalone. I use it with Facebook SDK in my projects. 
+Current Facebook SDK version in plugin is 14.1.0.
+It follows the same version as Facebook SDK version in this project https://www.npmjs.com/package/@capacitor-community/facebook-login to avoid conflicts.
 
 ## Installation
 
 To use with npm
 
 ```bash
-$ npm i sverdlov/capacitor-plugin-facebook-analytics
+$ npm i linknpay/capacitor-plugin-facebook-analytics
 ```
 
 To use with yarn
 
 ```bash
-yarn add https://github.com/sverdlov/capacitor-plugin-facebook-analytics
+yarn add https://github.com/linknpay/capacitor-plugin-facebook-analytics
 ```
 
 ## Android configuration
